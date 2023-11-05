@@ -21,7 +21,7 @@
   <p> You will be challenged in the Capstone Project to redesign an existing Java-based Android application to implement a combination of design patterns. You will also critique a given Java codebase for code smells. </p>
 </details>
 
-<details open
+<details open>
   <summary><h2> Software Architecture </h2></summary>
   <p> TThe way that software components — subroutines, classes, functions, etc. — are arranged, and the interactions between them, is called architecture. In this course you will study the ways these architectures are represented, both in UML and other visual tools. We will introduce the most common architectures, their qualities, and tradeoffs. We will talk about how architectures are evaluated, what makes a good architecture, and an architecture can be improved. We'll also talk about how the architecture touches on the process of software development.</p>
   <p> In the Capstone Project you will document a Java-based Android application with UML diagrams and analyze evaluate the application’s architecture using the Architecture Tradeoff Analysis Method (ATAM). </p>
