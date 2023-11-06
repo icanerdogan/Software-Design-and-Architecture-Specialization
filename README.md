@@ -7,6 +7,8 @@
   <p> This course takes Java beginners to the next level by covering object-oriented analysis and design. You will discover how to create modular, flexible, and reusable software, by applying object-oriented design principles   and guidelines. And, you will be able to communicate these designs in a visual notation known as Unified Modelling Language (UML).</p>
   <p> You will be challenged in the Capstone Project to apply your knowledge of object-oriented design by evolving and documenting the Java codebase for an Android application with corresponding UML documentation. </p>
 
+<h3> Medium Articles </h3>
+
 :red_circle: [Chapter #1 Object-Oriented Analysis and Design — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-1-object-oriented-design-software-design-and-architecture-specialization-university-of-5758fbbdb99c)
 
 :red_circle: [Chapter #2 Object-Oriented Modeling — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-2-object-oriented-modeling-software-design-and-architecture-specialization-university-3240d2afb533)
