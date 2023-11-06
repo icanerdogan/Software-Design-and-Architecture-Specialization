@@ -21,6 +21,11 @@
   <summary><h2> Design Patterns </h2></summary>
   <p> This course takes Java beginners to the next level by covering object-oriented analysis and design. You will discover how to create modular, flexible, and reusable software, by applying object-oriented design principles and guidelines. And, you will be able to communicate these designs in a visual notation known as Unified Modelling Language (UML).</p>
   <p> You will be challenged in the Capstone Project to redesign an existing Java-based Android application to implement a combination of design patterns. You will also critique a given Java codebase for code smells. </p>
+
+<h3> Medium Articles </h3>
+
+:red_circle: [Chapter #4 Introduction to Design Patterns: Creational & Structural Patterns — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-4-introduction-to-design-patterns-creational-structural-patterns-software-design-and-212a3d23abaa)
+
 </details>
 
 <details open>
