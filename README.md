@@ -26,6 +26,8 @@
 
 :red_circle: [Chapter #4 Introduction to Design Patterns: Creational & Structural Patterns — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-4-introduction-to-design-patterns-creational-structural-patterns-software-design-and-212a3d23abaa)
 
+:red_circle: [Chapter #5 Behavioural Design Patterns — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-5-behavioural-design-patterns-software-design-and-architecture-specialization-376a4a536f5d)
+
 </details>
 
 <details open>
