@@ -28,12 +28,23 @@
 
 :red_circle: [Chapter #5 Behavioural Design Patterns — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-5-behavioural-design-patterns-software-design-and-architecture-specialization-376a4a536f5d)
 
+:red_circle: [Chapter #6 Working with Design Patterns & Anti-patterns — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-6-working-with-design-patterns-anti-patterns-software-design-and-architecture-f7eb0d0fd404)
 </details>
 
 <details open>
   <summary><h2> Software Architecture </h2></summary>
   <p> TThe way that software components — subroutines, classes, functions, etc. — are arranged, and the interactions between them, is called architecture. In this course you will study the ways these architectures are represented, both in UML and other visual tools. We will introduce the most common architectures, their qualities, and tradeoffs. We will talk about how architectures are evaluated, what makes a good architecture, and an architecture can be improved. We'll also talk about how the architecture touches on the process of software development.</p>
   <p> In the Capstone Project you will document a Java-based Android application with UML diagrams and analyze evaluate the application’s architecture using the Architecture Tradeoff Analysis Method (ATAM). </p>
+
+  <h3> Medium Articles </h3>
+
+  :red_circle: [Chapter #7 UML Architecture Diagrams— Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-7-uml-architecture-diagrams-software-design-and-architecture-specialization-university-of-00eadcb9115d)
+  
+  :red_circle: [Chapter #8 Architectural Styles — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-8-architectural-styles-software-design-and-architecture-specialization-university-of-3841b3d424b1)
+  
+  :red_circle: [Chapter #9 Architecture in Pratice— Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-9-architecture-in-pratice-software-design-and-architecture-specialization-university-of-9602aad7428f)
+
+  :red_circle: [Chapter #10 Service-Oriented Architecture — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-10-service-oriented-architecture-software-design-and-architecture-specialization-01161ca6afc6)
 </details>
 
 <details open>
