@@ -44,11 +44,15 @@
   
   :red_circle: [Chapter #9 Architecture in Pratice— Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-9-architecture-in-pratice-software-design-and-architecture-specialization-university-of-9602aad7428f)
 
-  :red_circle: [Chapter #10 Service-Oriented Architecture — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-10-service-oriented-architecture-software-design-and-architecture-specialization-01161ca6afc6)
 </details>
 
 <details open>
   <summary><h2> Service-Oriented Architecture </h2></summary>
   <p> Based on an understanding of architectural styles, you will review architectures for web applications, then explore the basics of Service-Oriented Architecture (SOA) in two approaches: Web Services (WS*) and Representational State Transfer (REST) architecture. </p>
   <p> In the Capstone Project you will connect a Java-based Android application with Elasticsearch, a web service with a REST application programmer interface (API). </p>
+
+  <h3> Medium Articles </h3>
+
+  :red_circle: [Chapter #10 Service-Oriented Architecture — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-10-service-oriented-architecture-software-design-and-architecture-specialization-01161ca6afc6)
+    
 </details>
