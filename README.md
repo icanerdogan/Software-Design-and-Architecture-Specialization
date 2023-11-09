@@ -61,3 +61,5 @@
   
 </details>
 
+<h2>Certificate</h2>
+<img src="/Certificates/Software Design and Architecture Specialization Alberta University.png">
