@@ -54,5 +54,10 @@
   <h3> Medium Articles </h3>
 
   :red_circle: [Chapter #10 Service-Oriented Architecture — Software Design and Architecture Specialization](https://ibrahimcanerdogan.medium.com/chapter-10-service-oriented-architecture-software-design-and-architecture-specialization-01161ca6afc6)
+
+  :red_circle: [Chapter #11 Web Service— Software Design and Architecture Specialization University of Alberta](https://medium.com/@ibrahimcanerdogan/chapter-11-web-service-software-design-and-architecture-specialization-university-of-alberta-47b94502d9fa)
     
+  :red_circle: [Chapter #12 REST Architecture for SOA— Software Design and Architecture Specialization University of Alberta](https://ibrahimcanerdogan.medium.com/chapter-12-rest-architecture-for-soa-software-design-and-architecture-specialization-university-c1d702fdd616)
+  
 </details>
+
